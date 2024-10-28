@@ -1,0 +1,50 @@
+51	activating transcription factor 2 in Homo sapiens
+52	E2F transcription factor 1 in Homo sapiens
+53	eukaryotic translation initiation factor 4E in Homo sapiens
+54	"guanine nucleotide binding protein (G protein), alpha activating activity polypeptide, olfactory type" in Homo sapiens
+55	heme oxygenase (decycling) 1 in Homo sapiens
+56	phosphatase and tensin homolog (mutated in multiple advanced cancers 1) in Homo sapiens
+57	"syndecan 4 (amphiglycan, ryudocan)" in Homo sapiens
+58	"solute carrier family 1 (glial high affinity glutamate transporter), member 2" in Homo sapiens
+59	signal transducer and activator of transcription 5A in Homo sapiens
+60	"thrombopoietin (myeloproliferative leukemia virus oncogene ligand, megakaryocyte growth and development factor)" in Homo sapiens
+61	tissue inhibitor of metalloproteinase 2 in Homo sapiens
+62	"vitamin D (1,25- dihydroxyvitamin D3) receptor" in Homo sapiens
+63	aryl-hydrocarbon receptor in Mus musculus
+64	B-cell leukemia/lymphoma 2 in Mus musculus
+65	CD34 antigen in Mus musculus
+66	heterogeneous nuclear ribonucleoprotein A1 in Mus musculus
+67	interleukin 1 receptor antagonist in Mus musculus
+68	interleukin 5 in Mus musculus
+69	"protein tyrosine phosphatase, non-receptor type 1" in Mus musculus
+70	surfactant associated protein A in Mus musculus
+71	adenylate cyclase activating polypeptide 1 in Rattus norvegicus
+72	arginine vasopressin in Rattus norvegicus
+73	"Protein kinase C, alpha" in Rattus norvegicus
+74	"solute carrier family 2,member 1" in Rattus norvegicus
+75	"tumor necrosis factor  superfamily, member 2" in Rattus norvegicus
+76	fat in Drosophila melanogaster
+77	numb in Drosophila melanogaster
+78	Epidermal growth factor receptor in Drosophila melanogaster
+79	brahma in Drosophila melanogaster
+80	reaper in Drosophila melanogaster
+81	gonadotropin-releasing hormone receptor in Rattus norvegicus
+82	"tumor necrosis factor receptor superfamily, member 6" in Homo sapiens
+83	"endothelial differentiation, sphingolipid G-protein-coupled receptor, 1" in Homo sapiens
+84	v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian) in Homo sapiens
+85	"interleukin 3 (colony-stimulating factor, multiple)" in Homo sapiens
+86	"inhibitor of growth family, member 1" in Homo sapiens
+87	"peroxisome proliferative activated receptor, gamma" in Homo sapiens
+88	chemokine (C-C motif) ligand 3 in Homo sapiens
+89	Sp1 transcription factor in Homo sapiens
+90	"TEK tyrosine kinase, endothelial (venous malformations, multiple cutaneous and mucosal)" in Homo sapiens
+91	CASP8 and FADD-like apoptosis regulator in Homo sapiens
+92	amyloid beta (A4) precursor protein in Mus musculus
+93	CREB binding protein in Mus musculus
+94	fibroblast growth factor receptor 1 in Mus musculus
+95	growth hormone in Mus musculus
+96	forkhead box A2 in Mus musculus
+97	"inositol 1,4,5-triphosphate receptor 1" in Mus musculus
+98	signal transducer and activator of transcription 6 in Mus musculus
+99	T-cell receptor alpha chain in Mus musculus
+100	"Interleukin 6 (interferon, beta 2)" in Rattus norvegicus

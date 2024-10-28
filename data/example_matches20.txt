@@ -1,0 +1,21 @@
+# official gene name	alias
+"cyclin-dependent kinase inhibitor 1A (p21, Cip1)"	CDKN1
+"DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 5 (RNA helicase, 68kDa)"	DDX5
+ets variant gene 6 (TEL oncogene)	ets variant gene 6
+fibroblast growth factor 7 (keratinocyte growth factor)	HBGF-7
+"glycine receptor, alpha 1 (startle disease/hyperekplexia, stiff man syndrome)"	GLRA1
+"major histocompatibility complex, class II, DQ beta 1"	"major histocompatibility complex, class II, DQ beta 1 precursor"
+Janus kinase 2 (a protein tyrosine kinase)	JAK2
+luteinizing hormone/choriogonadotropin receptor	LHCGR
+metallothionein 3 (growth inhibitory factor (neurotrophic))	MT3
+protein C (inactivator of coagulation factors Va and VIIIa)	PROC
+"ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)"	ras-related C3 botulinum toxin substrate 1 isoform Rac1b
+tropomyosin 1 (alpha)	TMSA
+frizzled homolog 4 (Drosophila)	WNT receptor frizzled-4
+tyrosyl-tRNA synthetase	YARS
+major vault protein	MVP
+"adrenergic receptor, alpha 1d"	alpha1D-AR
+"ras homolog gene family, member AB"	aplysia ras-related homolog B (RhoB)
+"caspase 3, apoptosis related cysteine protease"	CPP32
+CCCTC-binding factor	Ctcf
+"tumor necrosis factor (ligand) superfamily, member 6"	Fas antigen ligand
